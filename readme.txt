@@ -1,1 +1,1 @@
-say hello to your friends
+say hello
